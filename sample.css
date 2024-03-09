@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: color(srgb red green blue);
+    font-size:  30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color:blue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol{
+    color: brown;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serifsss;
+}
+body{
+    background-color: black;
+}
